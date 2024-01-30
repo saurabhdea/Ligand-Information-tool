@@ -1,5 +1,5 @@
 # Ligand-Information-tool-
-Getting a information of the Ligand such as name, formula and formula weights by the help chemical component by CCD ID.
+Obtaining information about the ligand, including its name, formula, and weights, by using the CCD ID of the assistance chemical component.
 
 <strong>How to use</strong>
 
